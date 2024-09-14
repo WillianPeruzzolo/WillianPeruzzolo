@@ -11,7 +11,7 @@
 ### 🌟 GitHub Cards
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianPeruzzolo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianPeruzzolo&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillianPeruzzolo&show_icons=true&hide_title=true)
 
 
