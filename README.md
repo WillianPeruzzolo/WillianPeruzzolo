@@ -55,7 +55,7 @@
 ---
 
 ## 🎯 Objetivo Profissional
-Contribuir para o crescimento e inovação na área de TI, utilizando as melhores práticas e ferramentas para gerar valor e competitividade para a empresa.
+Contribuir para o crescimento e inovação na área de TI, utilizando as melhores práticas e ferramentas para gerar valor e competitividade.
 
 ---
 
