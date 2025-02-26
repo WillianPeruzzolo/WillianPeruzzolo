@@ -19,7 +19,7 @@
 ---
 
 ## 👋 Sobre Mim
-- **Analista de TI** na Cassul Distribuidora, com foco em **Sistemas** e **Desenvolvimento Front End**.
+- **Professor**, com foco em **Sistemas**, **Direito**, **Inglês e Espanhol** e nas horas vagas **Desenvolvimento Front End**.
 - Experiência de mais de 5 anos em TI, com formações acadêmicas em Análise e Desenvolvimento de Sistemas, além de Pós-Graduação em Gestão de TI.
 - Formação adicional em Direito e Licenciaturas em Português, Inglês, Espanhol e Geografia.
 
