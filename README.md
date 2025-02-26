@@ -1,6 +1,6 @@
 # 👨‍💻 Willian Paulo Peruzzolo
 
-**Analista de TI | Apaixonado por Tecnologia**
+**Professor / Desenvolvedor | Apaixonado por Tecnologia**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Willian%20Peruzzolo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianperuzzolo/)](https://www.linkedin.com/in/willianperuzzolo/)
 [![Email Badge](https://img.shields.io/badge/-willian.111@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.111@hotmail.com)](mailto:willian.111@hotmail.com)
