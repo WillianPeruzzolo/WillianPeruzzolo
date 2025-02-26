@@ -40,7 +40,9 @@
 ---
 
 ## 💼 Experiência Profissional
-- **Cassul Distribuidora** - Analista de TI (out/2022 - Presente)
+- **SENAC - Erechim/RS** - Professor (TI) TDS and TMS courses (jul/2024 - Atual)
+- **Rede Estadual de Educação Erechim/RS** - Professor (TI, Direito, Letras Inglês e Espanhol (out/2024 - Atual)
+- **Cassul Distribuidora** - Analista de TI (out/2022 - out/2024)
 - **Gasparin Cereais** - Gestor Logístico e Analista de Logística (jun/2020 - out/2022)
 
 ---
